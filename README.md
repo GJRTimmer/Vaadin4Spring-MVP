@@ -7,6 +7,9 @@ This project depends on vaadin4spring add-on. <https://github.com/peholmst/vaadi
 
 Sample application <https://github.com/markoradinovic/Vaadin4Spring-MVP-Sample>
 
+Sample application of integration with SpringBoot and SpringSecurity and SpringSocial 
+<https://github.com/markoradinovic/Vaadin4Spring-MVP-Sample-SpringSecuritySocial>
+
 ## Building 
 git clone <https://github.com/markoradinovic/Vaadin4Spring-MVP.git>
 
