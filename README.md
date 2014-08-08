@@ -5,8 +5,11 @@ Simple implementation of MVP pattern.
 
 This project depends on vaadin4spring add-on. <https://github.com/peholmst/vaadin4spring>
 
+Sample application <https://github.com/markoradinovic/Vaadin4Spring-MVP-Sample>
+
 ## Building 
 git clone <https://github.com/markoradinovic/Vaadin4Spring-MVP.git>
+
 mvn clean install
 
 ## Maven
