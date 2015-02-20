@@ -4,12 +4,12 @@
 	<parent>
 		<groupId>org.vaadin.spring</groupId>
 		<artifactId>parent-pom</artifactId>
-		<version>0.0.2-SNAPSHOT</version>
+		<version>0.0.4-SNAPSHOT</version>
 	</parent>
 	<artifactId>spring-vaadin-mvp</artifactId>
 	<name>Vaadin4Spring MVP</name>
+	<version>0.0.2-SNAPSHOT</version>
 	<description>Simple implementation of MVP pattern.</description>
-
 	<properties>
 		<!-- github server corresponds to entry in ~/.m2/settings.xml -->
 		<github.global.server>github</github.global.server>
@@ -30,7 +30,7 @@
 		<dependency>
 			<groupId>${project.groupId}</groupId>
 			<artifactId>spring-vaadin</artifactId>
-			<version>${project.version}</version>
+			<version>0.0.4-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
 
